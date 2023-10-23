@@ -14,7 +14,7 @@ const Counter = () => {
             Setcount(count - 1);
         }
         else{
-            alert('The counter is out of range  ')
+            alert('The counter is out of range')
         }
     }
 
